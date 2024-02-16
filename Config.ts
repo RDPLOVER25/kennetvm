@@ -1,7 +1,7 @@
 export const Config = {
     ChatSound: "//computernewb.com/collab-vm/notify.ogg",
     ServerAddresses: [
-        "wss://6x70kw9ydulw.share.zrok.io",
+        "wss://qrot96rgq6k5.share.zrok.io",
         "wss://psh3kf-6004.csb.app/",
         "wss://computernewb.com/collab-vm/vm2",
         "wss://computernewb.com/collab-vm/vm3",
